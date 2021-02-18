@@ -820,8 +820,9 @@ text-shadow: 1px 1px 1px white;
     }
 
     .footer{
-        
+        text-align: center;
         padding: 3rem;
+        align-items: center;
     }
 
 }
