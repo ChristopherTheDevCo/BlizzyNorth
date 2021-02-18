@@ -426,8 +426,7 @@ text-shadow: 1px 1px 1px white;
         border-top: 1px solid grey;
         padding: 3rem 6rem;
         display: flex;
-        flex-direction: row;
-        justify-content: space-between;
+        
         align-items: center;
     }
 
